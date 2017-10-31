@@ -1,2 +1,3 @@
 # FileEncryptor
-Graduation project
+<b>Graduation project</b><br>
+uses AES256 standart
